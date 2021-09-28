@@ -1,2 +1,2 @@
 # Journey
-# Journey A MERN stack Application
+# Journey a MERN stack Application
